@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewSparper.BAL.Interface\NewSparper.BAL.Interface.csproj" />
+    <ProjectReference Include="..\NewSparper.DAL.Interface\NewSparper.DAL.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
